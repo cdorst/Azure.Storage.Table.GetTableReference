@@ -1,4 +1,4 @@
-using Microsoft.Azure;
+using Microsoft.WindowsAzure.Storage.Table;
 using static Azure.Storage.Table.GetTableClient.TableClientGetter;
 
 namespace Azure.Storage.Table.GetTableReference
